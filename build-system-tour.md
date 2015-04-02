@@ -1,1 +1,23 @@
-- build/envsetup.sh
+- [build/](http://androidxref.com/5.1.0_r1/xref/build)
+ - envsetup.sh
+- [lunch](http://androidxref.com/5.1.0_r1/xref/build/envsetup.sh#481)
+- [build/core](http://androidxref.com/5.1.0_r1/xref/build/core/)
+ - main.mk
+ - config.mk
+ - definitions.mk
+ - Makefile
+  - "Put some miscellaneous rules here"
+  - Super interesting!
+ - cleanbuild.mk
+- [device/lge/hammerhead](http://androidxref.com/5.1.0_r1/xref/device/lge/hammerhead/)
+ - Product Descriptions
+  - AndroidProducts.mk
+  - Single Products
+   - aosp_hammerhead.mk
+   - car_hammerhead.mk
+   - full_hammerhead.mk
+ - Board Description
+  - BoardConfig.mk
+ - Module Build Rules
+  - Android.mk
+  - CleanSpec.mk
