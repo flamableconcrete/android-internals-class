@@ -11,6 +11,8 @@
     - "Put some miscellaneous rules here"
     - Super interesting!
   - cleanbuild.mk
+- [build/target/product](http://androidxref.com/5.1.0_r1/xref/build/target/product/)
+  - Reference Product Makefiles
 - [device/lge/hammerhead](http://androidxref.com/5.1.0_r1/xref/device/lge/hammerhead/)
   - Product Descriptions
     - AndroidProducts.mk
