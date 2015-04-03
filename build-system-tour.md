@@ -1,6 +1,8 @@
 - [build/](http://androidxref.com/5.1.0_r1/xref/build)
   - envsetup.sh
-  - [buildspec.mk.default](http://androidxref.com/5.1.0_r1/xref/build/buildspec.mk.default)
+  - buildspec.mk.default
+  - [tools](http://androidxref.com/5.1.0_r1/xref/build/tools/)
+    - buildinfo.sh # autogenerates build.prop
 - [lunch](http://androidxref.com/5.1.0_r1/xref/build/envsetup.sh#481)
 - [build/core](http://androidxref.com/5.1.0_r1/xref/build/core/)
   - main.mk
