@@ -5,6 +5,7 @@
 - [build/core](http://androidxref.com/5.1.0_r1/xref/build/core/)
   - main.mk
   - config.mk
+    - [Module Build Templates](http://androidxref.com/5.1.0_r1/xref/build/core/config.mk#62)
   - definitions.mk
   - Makefile
     - "Put some miscellaneous rules here"
