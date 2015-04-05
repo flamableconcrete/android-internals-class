@@ -13,6 +13,8 @@
     - "Put some miscellaneous rules here"
     - Super interesting!
   - cleanbuild.mk
+  - envsetup.mk
+    - Defines macros for out/, (e.g. TARGET_ROOT_OUT_SBIN == out/target/product/<product>/system/sbin)
 - [build/target/product](http://androidxref.com/5.1.0_r1/xref/build/target/product/)
   - Reference Product Makefiles
 - [device/lge/hammerhead](http://androidxref.com/5.1.0_r1/xref/device/lge/hammerhead/)
