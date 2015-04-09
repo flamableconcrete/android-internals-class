@@ -3,13 +3,14 @@ Questions
 
 Overview
 --------
-- What do you hope to get out of this class?
-- What motivated you to sign up for this class?
+- Q. What do you hope to get out of this class?
+- Q. What motivated you to sign up for this class?
 
 
 Background
 ----------
 - Developer View
+  - Q. 
 - System Architeture
   - Android Linux Kernel
   - Hardware
