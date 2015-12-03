@@ -23,6 +23,8 @@
       - [adb uses this](http://androidxref.com/5.1.0_r1/xref/system/core/adb/Android.mk#131)
 - [build/target/product](http://androidxref.com/5.1.0_r1/xref/build/target/product/)
   - Reference Product Makefiles
+  - core.mk (almost ALL devices)
+  - core_tiny.mk (wearables)
 - [device/lge/hammerhead](http://androidxref.com/5.1.0_r1/xref/device/lge/hammerhead/)
   - Product Descriptions
     - AndroidProducts.mk
