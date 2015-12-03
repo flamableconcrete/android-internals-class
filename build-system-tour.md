@@ -12,6 +12,10 @@
   - Makefile
     - "Put some miscellaneous rules here"
     - Super interesting!
+      - [Targets for boot/OS images](http://androidxref.com/5.1.0_r1/xref/build/core/Makefile#422)
+      - [Boot Image](http://androidxref.com/5.1.0_r1/xref/build/core/Makefile#465)
+      - [Keystore](http://androidxref.com/5.1.0_r1/xref/build/core/Makefile#646)
+      - [Recovery Image](http://androidxref.com/5.1.0_r1/xref/build/core/Makefile#739)
   - cleanbuild.mk
   - envsetup.mk
     - Defines macros for out/, (e.g. TARGET_ROOT_OUT_SBIN == out/target/product/<product>/system/sbin)
