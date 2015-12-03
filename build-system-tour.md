@@ -19,7 +19,7 @@
   - cleanbuild.mk
   - envsetup.mk
     - Defines macros for out/
-      - e.g. TARGET_ROOT_OUT_SBIN == out/target/product/the-product/system/sbin
+      - e.g. [TARGET_ROOT_OUT_SBIN](http://androidxref.com/5.1.0_r1/xref/build/core/envsetup.mk#370) == out/target/product/the-product/system/sbin
       - [adb uses this](http://androidxref.com/5.1.0_r1/xref/system/core/adb/Android.mk#131)
 - [build/target/product](http://androidxref.com/5.1.0_r1/xref/build/target/product/)
   - Reference Product Makefiles
